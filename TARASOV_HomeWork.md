@@ -3,3 +3,6 @@
 ## git clone <link>
 * command to clone remote repository to local one 
 
+## git pull
+* command to download all files from current repository and to perform simultaneos merge w/ our version
+
